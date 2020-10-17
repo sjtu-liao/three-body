@@ -2,7 +2,7 @@
 ###### Xiaoming LI and Shijun LIAO
 ###### Shanghai Jiao Tong University, China
 ## Background
-The famous three-body problem can be traced back to Newton [1] in 1680s, and attracted many famous mathematicians and physicists such as Euler [2], Lagrange [3] and so on. Poincare [4] found that the first integrals for the motion of three-body system do not exist, and besides orbits of three-body system are rather sensitive to initial conditions. His discovery of the so-called “sensitivity dependence on initial conditions” (SDIC) laid the foundation of modern chaos theory. It well explains why in the 300 years only three families of periodic orbits of three-body system were found by Euler [2] and Lagrange [3], until 1970s when the Broucke-Hadjidemetriou-Henon family of periodic orbits were found [5–9]. The famous figure-eight family was numerically discovered by Moore [10] in 1993 and rediscovered by Chenciner and Montgomery [11] in 2000. In 2013, Suvakov and Dmitrasinovic [12] made a breakthrough to find 13 new distinct periodic orbits by means of numerical methods, which belong to 11 new families. In 2017 Li and Liao [13] found more than six hundred new periodic orbits of three-body system with equal mass, and in 2018 Li et al. [14] further reported more than one thousand new periodic orbits of three-body system with unequal mass. In 2018, Li and Liao [15] reported more than two hundred new collisionless periodic orbits in free-fall three-body problem.
+The famous three-body problem can be traced back to Newton [1] in 1680s, and attracted many famous mathematicians and physicists such as Euler [2], Lagrange [3] and so on. Poincare [4] found that the first integrals for the motion of three-body system do not exist, and besides orbits of three-body system are rather sensitive to initial conditions. His discovery of the so-called “sensitivity dependence on initial conditions” (SDIC) laid the foundation of modern chaos theory. It well explains why in the 300 years only three families of periodic orbits of three-body system were found by Euler [2] and Lagrange [3], until 1970s when the Broucke-Hadjidemetriou-Henon family of periodic orbits were found [5–9]. The famous figure-eight family was numerically discovered by Moore [10] in 1993 and rediscovered by Chenciner and Montgomery [11] in 2000. In 2013, Suvakov and Dmitrasinovic [12] made a breakthrough to find 13 new distinct periodic orbits by means of numerical methods, which belong to 11 new families. In 2017 Li and Liao [13] found more than six hundred new periodic orbits of three-body system with equal mass, and in 2018 Li et al. [14] further reported more than one thousand new periodic orbits of three-body system with unequal mass. In 2018, Li and Liao [15] reported more than three hundred new collisionless periodic orbits in free-fall three-body problem.
 
 **The following show the details of our newly found periodic orbits.**
 
@@ -41,8 +41,31 @@ For the detailed characteristic parameters (such as the periods, the scale-invar
 
 **FIG3. The trajectories of six new collisionless free-fall three-body periodic orbits. Blue line: body-1, red line: body-2, black line: body-3.**
 
-We report **316** collisionless periodic free-fall three-body orbits with different mass ratios. Except for three periodic orbits have benn found before, **313** collisionless periodic orbits are entirely new. For more detail, please refer to [arXiv:1805.07980](https://arxiv.org/abs/1805.07980). For the detailed characteristic parameters (such as the periods, initial positions and so on) and the pictures of these periodic orbits, please visit the websites:
+We report **316** collisionless periodic free-fall three-body orbits with different mass ratios. Except for three periodic orbits have benn found before, **313** collisionless periodic orbits are entirely new. For more detail, please refer to [arXiv:1805.07980](https://arxiv.org/abs/1805.07980). It was published online on February 1st, 2019 (***New Astronomy***, 70, 2019, dio:10.1016/j.newast.2019.01.003) [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2019-NA-3body.pdf)].
+
+For the detailed characteristic parameters (such as the periods, initial positions and so on) and the pictures of these periodic orbits, please visit the websites:
 
 **(A)** [The free group element (word)](https://github.com/sjtu-liao/three-body/blob/main/free-fall-3b-free-group-word.md);
 
 **(B)** [The pictures of periodic orbits in real space and on the shape sphere](https://github.com/sjtu-liao/three-body/blob/main/free-fall-3b-pictures.md).
+
+---
+
+### References
+[1] I. Newton, *Philosophiae naturalis principia mathematica* (London: Royal Society Press, 1687).  
+[2] L. Euler, Novo Comm. Acad. Sci. Imp. Petrop. **11**, 144 (1767).  
+[3] J.L. Lagrange, Prix de lacademie royale des Sciences de paris **9**, 292 (1772).  
+[4] J. H. Poincare, Acta Math. **13**, 1 (1890).  
+[5] R. Broucke, Celestial Mechanics **12**, 439 (1975).  
+[6] J. D. Hadjidemetriou, Celestial Mechanics **12**, 255 (1975).  
+[7] J. D. Hadjidemetriou and T. Christides, Celestial mechanics **12**, 175 (1975).  
+[8] M. Henon, Celestial mechanics **13**, 267 (1976).  
+[9] M. Henon, Celestial mechanics **15**, 243 (1977).  
+[10] C. Moore, Phys. Rev. Lett. **70**, 3675 (1993).  
+[11] A. Chenciner and R. Montgomery, Annals of Mathematics **152**, 881 (2000).  
+[12] M. Suvakov and V. Dmitrasinovic, Phys. Rev. Lett. **110**, 114301 (2013).  
+[13] X. Li and S. Liao, SCIENCE CHINA Physics, Mechanics & Astronomy **60**, 129511 (2017). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2017-SCPMA-3body.pdf)] [arXiv:1705.00527v4](https://arxiv.org/abs/1705.00527v4)  
+[14] X. Li, Y. Jing, and S. Liao, Publications of the Astronomical Society of Japan **00**, 1 (2018). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2018-PASJ-3body.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
+[15] X. Li and S. Liao, New Astronomy **70**, 22 (2019). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2019-NA-3body.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980)  
+
+![](https://visitor-badge.glitch.me/badge?page_id=%3C34206199%3E)
