@@ -13,7 +13,7 @@
 <p>Initial positions: (-1, 0), (1, 0), (0, 0)</p>
 <p>Initial velocities: (v<sub>1</sub>, v<sub>2</sub>), (v<sub>1</sub>, v<sub>2</sub>), (-2v<sub>1</sub>, -2v<sub>2</sub>) </p>
 <p>T is the period,  T<sup>*</sup> = T|E|<sup>3/2</sup> is the scale-invariant period and L<sub>f</sub> is the
-length of the free group element. </p>
+length of the free group element, where E denotes the sum of the kinetic and potential energy of the three-body system.  </p>
 
 <body>
 <table>
