@@ -68,4 +68,6 @@ For the detailed characteristic parameters (such as the periods, initial positio
 [14] X. Li, Y. Jing, and S. Liao, Publications of the Astronomical Society of Japan **00**, 1 (2018). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2018-PASJ-3body.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
 [15] X. Li and S. Liao, New Astronomy **70**, 22 (2019). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2019-NA-3body.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980)  
 
+**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body.htm)**
+
 ![](https://visitor-badge.glitch.me/badge?page_id=%3C34206199%3E)
