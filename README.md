@@ -38,7 +38,7 @@ For the detailed characteristic parameters (such as the periods, the scale-invar
 
 **(B)** [The pictures of periodic orbits in real space and on the shape sphere](https://github.com/sjtu-liao/three-body/blob/main/three-body-unequal-mass-pictures.md).
 
-**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body-movies.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body-unequal-mass-movies.htm)**
+**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body-unequal-mass-movies.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body-unequal-mass-movies.htm)**
 
 ## 3. Collisionless periodic orbits in free-fall three-body problem
 <img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3a.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3b.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3c.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3d.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3e.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3f.gif" width="276" height="207" />
@@ -53,7 +53,7 @@ For the detailed characteristic parameters (such as the periods, initial positio
 
 **(B)** [The pictures of periodic orbits in real space and on the shape sphere](https://github.com/sjtu-liao/three-body/blob/main/free-fall-3b-pictures.md).
 
-**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
+**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
 ---
 
