@@ -23,6 +23,8 @@ For the detailed characteristic parameters (such as the periods, the scale-invar
 
 **(B)** [The pictures of periodic orbits in real space and on the shape sphere](https://github.com/sjtu-liao/three-body/blob/main/three-body-pictures.md).
 
+**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body-movies.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body-movies.htm)**
+
 ## 2. Periodic orbits with unequal mass
 <img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig2a.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig2b.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig2c.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig2d.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig2e.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig2f.gif" width="276" height="207" />
 
@@ -36,6 +38,8 @@ For the detailed characteristic parameters (such as the periods, the scale-invar
 
 **(B)** [The pictures of periodic orbits in real space and on the shape sphere](https://github.com/sjtu-liao/three-body/blob/main/three-body-unequal-mass-pictures.md).
 
+**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body-movies.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body-unequal-mass-movies.htm)**
+
 ## 3. Collisionless periodic orbits in free-fall three-body problem
 <img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3a.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3b.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3c.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3d.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3e.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/fig3f.gif" width="276" height="207" />
 
@@ -48,6 +52,8 @@ For the detailed characteristic parameters (such as the periods, initial positio
 **(A)** [The free group element (word)](https://github.com/sjtu-liao/three-body/blob/main/free-fall-3b-free-group-word.md);
 
 **(B)** [The pictures of periodic orbits in real space and on the shape sphere](https://github.com/sjtu-liao/three-body/blob/main/free-fall-3b-pictures.md).
+
+**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
 ---
 
@@ -68,6 +74,6 @@ For the detailed characteristic parameters (such as the periods, initial positio
 [14] X. Li, Y. Jing, and S. Liao, Publications of the Astronomical Society of Japan **00**, 1 (2018). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2018-PASJ-3body.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
 [15] X. Li and S. Liao, New Astronomy **70**, 22 (2019). [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2019-NA-3body.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980)  
 
-**For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body.htm)**
+**For the movies of the periodic orbits mentioned above, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body.htm)**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=%3C34206199%3E)
