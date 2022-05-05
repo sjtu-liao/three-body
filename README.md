@@ -68,6 +68,7 @@ Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to sup
 For the code, data of periodic orbits, and the trained ANN models, please refer to the websites:
 
 1. [Code](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Code)
+
 The code "ANN_3body.py" is to train the ANN model with the periodic orbits of the three-body problem.
 
 The code "Eval_3body.py" is to use the trained ANN model to predict the initial conditions and period of the periodic orbits.
@@ -75,9 +76,11 @@ The code "Eval_3body.py" is to use the trained ANN model to predict the initial 
 The code "Classify_orbit.py" is to train the ANN model to classify the orbits and use the trained model to predict the type of the orbits.
 
 2. [Data](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Data)
+
 This folder contains all the periodic orbits found and the classfications of the orbits for the two cases in the paper.
 
 3. [Model](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Model)
+
 This folder contains the trained ANN models for the two cases in the paper. 
 
 ---
