@@ -55,6 +55,31 @@ For the detailed characteristic parameters (such as the periods, initial positio
 
 **For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
+## 4. Three-body problem - from Newton to supercomputer plus machine learning
+
+We propose an effective approach and roadmap to numerically gain planar periodic orbits of three-body systems with arbitrary masses by means of machine learning based on an artificial neural network (ANN) model. Given any a known periodic orbit as a starting point, this approach can provide more and more periodic orbits (of the same family name) with variable masses, while the mass domain having periodic orbits becomes larger and larger, and the ANN model becomes wiser and wiser. Finally, we have an ANN model trained by means of all obtained periodic orbits of the same family, which provides a convenient way to give accurate enough predictions of periodic orbits with arbitrary masses for physicists and astronomers. It suggests that the high-performance computer and artificial intelligence (including machine learning) should be the key to gain periodic orbits of the famous three-body problem.
+
+For more details, please refer to：
+
+Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, ***New Astronomy***, accepted.
+
+Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, [arXiv:2106.11010](https://arxiv.org/abs/2106.11010).
+
+For the code, data of periodic orbits, and the trained ANN models, please refer to the websites:
+
+1. [Code](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Code)
+The code "ANN_3body.py" is to train the ANN model with the periodic orbits of the three-body problem.
+
+The code "Eval_3body.py" is to use the trained ANN model to predict the initial conditions and period of the periodic orbits.
+
+The code "Classify_orbit.py" is to train the ANN model to classify the orbits and use the trained model to predict the type of the orbits.
+
+2. [Data](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Data)
+This folder contains all the periodic orbits found and the classfications of the orbits for the two cases in the paper.
+
+3. [Model](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Model)
+This folder contains the trained ANN models for the two cases in the paper. 
+
 ---
 
 ### References
