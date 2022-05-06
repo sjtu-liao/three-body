@@ -56,6 +56,13 @@ For the detailed characteristic parameters (such as the periods, initial positio
 **For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
 ## 4. Three-body problem - from Newton to supercomputer plus machine learning
+<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif1.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif2.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif3.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif4.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif5.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif6.gif" width="276" height="207" /><img
+
+**FIG4. The relatively periodic BHH satellites orbits of the three-body system with various masses in a rotating frame of reference. The corresponding physical parameters are given by ANN in Table 3 in [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2). Blue line: body-1; red line: body-2; black line: body-3.**
+
+<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case2_gif/gif1.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case2_gif/gif2.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case2_gif/gif3.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case2_gif/gif4.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case2_gif/gif5.gif" width="276" height="207" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case2_gif/gif6.gif" width="276" height="207" /><img
+
+**FIG5. The relatively periodic BHH satellites orbits of the three-body system with various masses in a rotating frame of reference. The corresponding physical parameters are given by ANN in Table 4 in [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2). Blue line: body-1; red line: body-2; black line: body-3.**
 
 We propose an effective approach and roadmap to numerically gain planar periodic orbits of three-body systems with arbitrary masses by means of machine learning based on an artificial neural network (ANN) model. Given any a known periodic orbit as a starting point, this approach can provide more and more periodic orbits (of the same family name) with variable masses, while the mass domain having periodic orbits becomes larger and larger, and the ANN model becomes wiser and wiser. Finally, we have an ANN model trained by means of all obtained periodic orbits of the same family, which provides a convenient way to give accurate enough predictions of periodic orbits with arbitrary masses for physicists and astronomers. It suggests that the high-performance computer and artificial intelligence (including machine learning) should be the key to gain periodic orbits of the famous three-body problem.
 
@@ -63,7 +70,7 @@ For more details, please refer to：
 
 Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, ***New Astronomy***, accepted.
 
-Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, [arXiv:2106.11010](https://arxiv.org/abs/2106.11010).
+Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2).
 
 For the code, data of periodic orbits, and the trained ANN models, please refer to the websites:
 
