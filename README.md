@@ -68,7 +68,7 @@ We propose an effective approach and roadmap to numerically gain planar periodic
 
 For more details, please refer to：
 
-Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, ***New Astronomy***, 96, 2022, dio:10.1016/j.newast.2022.101850) [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2022-NA-3body.pdf)].
+Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, ***New Astronomy***, 96, 2022, dio:10.1016/j.newast.2022.101850, [[PDF](https://github.com/sjtu-liao/three-body/blob/main/paper/2022-NA-3body.pdf)].
 
 Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2).
 
