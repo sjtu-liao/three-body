@@ -84,7 +84,7 @@ The code "Classify_orbit.py" is to train the ANN model to classify the orbits an
 
 2. [Data](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Data)
 
-This folder contains all the periodic orbits found and the classfications of the orbits for the two cases in the paper.
+This folder contains all the periodic orbits found and the classifications of the orbits for the two cases in the paper.
 
 3. [Model](https://github.com/sjtu-liao/three-body/blob/main/roadmap/Model)
 
