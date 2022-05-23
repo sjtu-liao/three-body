@@ -108,8 +108,10 @@ This folder contains the trained ANN models for the two cases in the paper.
 [13] X. Li and S. Liao, SCIENCE CHINA Physics, Mechanics & Astronomy **60**, 129511 (2017). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2017/7.pdf)] [arXiv:1705.00527v4](https://arxiv.org/abs/1705.00527v4)  
 [14] X. Li, Y. Jing, and S. Liao, Publications of the Astronomical Society of Japan **00**, 1 (2018). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2018/8.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
 [15] X. Li and S. Liao, New Astronomy **70**, 22-26 (2019). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2019/1.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980) 
+
 [16] X. Li, X. Li and S. Liao, SCIENCE CHINA Physics, Mechanics & Astronomy **64**, 219511 (2021). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2021/4.pdf)]
-[17] X. Li, S. Liao and Y. Yang, New Astronomy **96**, 101850 (2022). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)] [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2)
+
+[17] S. Liao, X. Li and Y. Yang, New Astronomy **96**, 101850 (2022). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)] [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2)
 
 **For the movies of the periodic orbits mentioned above, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body.htm)**
 
