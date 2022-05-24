@@ -94,17 +94,17 @@ This folder contains the trained ANN models for the two cases in the paper.
 
 ### References
 [1] I. Newton, *Philosophiae naturalis principia mathematica* (London: Royal Society Press, 1687).  
-[2] L. Euler, Novo Comm. Acad. Sci. Imp. Petrop. **11**, 144 (1767).  
-[3] J.L. Lagrange, Prix de lacademie royale des Sciences de paris **9**, 292 (1772).  
-[4] J. H. Poincare, Acta Math. **13**, 1 (1890).  
-[5] R. Broucke, Celestial Mechanics **12**, 439 (1975).  
-[6] J. D. Hadjidemetriou, Celestial Mechanics **12**, 255 (1975).  
-[7] J. D. Hadjidemetriou and T. Christides, Celestial mechanics **12**, 175 (1975).  
-[8] M. Henon, Celestial mechanics **13**, 267 (1976).  
-[9] M. Henon, Celestial mechanics **15**, 243 (1977).  
-[10] C. Moore, Phys. Rev. Lett. **70**, 3675 (1993).  
-[11] A. Chenciner and R. Montgomery, Annals of Mathematics **152**, 881 (2000).  
-[12] M. Suvakov and V. Dmitrasinovic, Phys. Rev. Lett. **110**, 114301 (2013).  
+[2] L. Euler, "De motu rectilineo trium corporum se mutuo attrahentium", Novi commentarii academiae scientiarum Petropolitanae **11**, 144-151 (1767).  
+[3] J.L. Lagrange, "Essai sur le probleme des trois corps",  Prix de lacademie royale des Sciences de paris **9**, 292 (1772).  
+[4] J. H. Poincare, "Sur le probleme des trois corps et les equations de la dynamique", Acta Mathematica **13**, 1-271 (1890).  
+[5] R. Broucke, "On relative periodic solutions of the planar general three-body problem", Celestial Mechanics **12**, 439-462 (1975).  
+[6] J. D. Hadjidemetriou, "The stability of periodic orbits in the three-body problem", Celestial Mechanics **12**, 255-276 (1975).  
+[7] J. D. Hadjidemetriou and T. Christides, "Families of periodic orbits in the planar three-body problem", Celestial mechanics **12**, 175-187 (1975).  
+[8] M. Henon, "A family of periodic solutions of the planar three-body problem, and their stability", Celestial mechanics **13**, 267-285 (1976).  
+[9] M. Henon, "Stability of interplay motions", Celestial mechanics **15**, 243-261 (1977).  
+[10] C. Moore, "Braids in classical gravity", Physical Review Letters **70**, 3675-3679 (1993).  
+[11] A. Chenciner and R. Montgomery, "A remarkable periodic solution of the three-body problem in the case of equal masses", Annals of Mathematics **152**, 881-901 (2000).  
+[12] M. Suvakov and V. Dmitrasinovic, "Three classes of Newtonian three-body planar periodic orbits", Physical Review Letters **110**, 114301 (2013).  
 [13] X. Li and S. Liao, "More than six hundred new families of Newtonian periodic planar collisionless three-body orbits", SCIENCE CHINA Physics, Mechanics & Astronomy **60**, 129511 (2017). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2017/7.pdf)] [arXiv:1705.00527v4](https://arxiv.org/abs/1705.00527v4)  
 [14] X. Li, Y. Jing, and S. Liao, "Over a thousand new periodic orbits of a planar three-body system with unequal masses", Publications of the Astronomical Society of Japan **00**, 1-7 (2018). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2018/8.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
 [15] X. Li and S. Liao, "Collisionless periodic orbits in the free-fall three-body problem", New Astronomy **70**, 22-26 (2019). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2019/1.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980)  
