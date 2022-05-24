@@ -68,9 +68,9 @@ We propose an effective approach and roadmap to numerically gain planar periodic
 
 For more details, please refer to：
 
-Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, ***New Astronomy***, 96 (2022), 101850 (doi:10.1016/j.newast.2022.101850) [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)].
+Shijun Liao, Xiaoming Li and Yu Yang, "Three-body problem - from Newton to supercomputer plus machine learning", ***New Astronomy***, 96 (2022), 101850 (doi:10.1016/j.newast.2022.101850) [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)].
 
-Shijun Liao, Xiaoming Li and Yu Yang, “Three-body problem - from Newton to supercomputer plus machine learning”, [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2).
+Shijun Liao, Xiaoming Li and Yu Yang, "Three-body problem - from Newton to supercomputer plus machine learning", [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2).
 
 For the code, data of periodic orbits, and the trained ANN models, please refer to the websites:
 
@@ -105,11 +105,11 @@ This folder contains the trained ANN models for the two cases in the paper.
 [10] C. Moore, Phys. Rev. Lett. **70**, 3675 (1993).  
 [11] A. Chenciner and R. Montgomery, Annals of Mathematics **152**, 881 (2000).  
 [12] M. Suvakov and V. Dmitrasinovic, Phys. Rev. Lett. **110**, 114301 (2013).  
-[13] X. Li and S. Liao, SCIENCE CHINA Physics, Mechanics & Astronomy **60**, 129511 (2017). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2017/7.pdf)] [arXiv:1705.00527v4](https://arxiv.org/abs/1705.00527v4)  
-[14] X. Li, Y. Jing, and S. Liao, Publications of the Astronomical Society of Japan **00**, 1-7 (2018). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2018/8.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
-[15] X. Li and S. Liao, New Astronomy **70**, 22-26 (2019). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2019/1.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980)  
-[16] X. Li, X. Li and S. Liao, SCIENCE CHINA Physics, Mechanics & Astronomy **64**, 219511 (2021). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2021/4.pdf)]  
-[17] S. Liao, X. Li and Y. Yang, New Astronomy **96**, 101850 (2022). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)] [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2)  
+[13] X. Li and S. Liao, "More than six hundred new families of Newtonian periodic planar collisionless three-body orbits", SCIENCE CHINA Physics, Mechanics & Astronomy **60**, 129511 (2017). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2017/7.pdf)] [arXiv:1705.00527v4](https://arxiv.org/abs/1705.00527v4)  
+[14] X. Li, Y. Jing, and S. Liao, "Over a thousand new periodic orbits of a planar three-body system with unequal masses", Publications of the Astronomical Society of Japan **00**, 1-7 (2018). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2018/8.pdf)] [arXiv:1709.04775](https://arxiv.org/abs/1709.04775)  
+[15] X. Li and S. Liao, "Collisionless periodic orbits in the free-fall three-body problem", New Astronomy **70**, 22-26 (2019). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2019/1.pdf)] [arXiv:1805.07980](https://arxiv.org/abs/1805.07980)  
+[16] X. Li, X. Li and S. Liao, "One family of 13315 stable periodic orbits of non-hierarchical unequal-mass triple systems", SCIENCE CHINA Physics, Mechanics & Astronomy **64**, 219511 (2021). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2021/4.pdf)]  
+[17] S. Liao, X. Li and Y. Yang, "Three-body problem - from Newton to supercomputer plus machine learning", New Astronomy **96**, 101850 (2022). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)] [arXiv:2106.11010v2](https://arxiv.org/abs/2106.11010v2)  
 
 **For the movies of the periodic orbits mentioned above, please visit the website: [https://numericaltank.sjtu.edu.cn/three-body/three-body.htm](https://numericaltank.sjtu.edu.cn/three-body/three-body.htm)**
 
