@@ -57,7 +57,7 @@ For the detailed characteristic parameters (such as the periods, initial positio
 
 ## 4. Stable non-hierarchical triple systems with fairly large mass region
 <center>
-    <img style="border-radius: 0.1em;" 
+    <img 
     src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/stable.png">
 </center>
 
