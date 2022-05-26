@@ -57,10 +57,8 @@ For the detailed characteristic parameters (such as the periods, initial positio
 
 ## 4. Stable non-hierarchical triple systems with fairly large mass region
 <center>
-    <img style="border-radius: 0.1em;
-    box-shadow: 0 1px 2px 0 rgba(20,20,20,.12),0 1px 5px 0 rgba(20,20,20,.08);" 
+    <img style="border-radius: 0.1em;" 
     src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/stable.png">
-    <br>
 </center>
 
 **FIG4. The stability region of periodic orbits with m<sub>3</sub> = 1 in the m<sub>1</sub>-m<sub>2</sub> plane. Shadowing domain: stable periodic orbits.**
