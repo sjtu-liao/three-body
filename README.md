@@ -56,7 +56,7 @@ For the detailed characteristic parameters (such as the periods, initial positio
 **For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
 ## 4. Stable non-hierarchical triple systems with fairly large mass region
-<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4a.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4b.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4c.gif" width="276" height="190" />
+<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4a.gif" width="276" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4b.gif" width="276" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4c.gif" width="276" height="200" />
 
 **FIG4. Three newly found stable periodic orbits of non-hierarchical triple systems with different masses and period. (a) m<sub>1</sub> = 0.87, m<sub>2</sub> = 0.8, m<sub>3</sub> = 1 and T = 5.9889127121; (b) m<sub>1</sub> = 0.9, m<sub>2</sub> = 0.85, m<sub>3</sub> = 1 and T = 6.3508660391; (c) m<sub>1</sub> = 0.93, m<sub>2</sub> = 0.89, m<sub>3</sub> = 1 and T = 6.6805531109. Body-1: blue line; Body-2: red line; Body-3: black line.**
 
