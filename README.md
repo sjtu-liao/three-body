@@ -56,7 +56,9 @@ For the detailed characteristic parameters (such as the periods, initial positio
 **For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
 ## 4. Stable non-hierarchical triple systems with fairly large mass region
+<div align=center>
 <img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/stable.png" width="350" height="270" />
+</div>
 
 **FIG4. The stability region of periodic orbits with m<sub>3</sub> = 1 in the m<sub>1</sub>-m<sub>2</sub> plane. Shadowing domain: stable periodic orbits.**
 
