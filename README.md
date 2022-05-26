@@ -61,7 +61,7 @@ For the detailed characteristic parameters (such as the periods, initial positio
 **FIG4. Three newly found stable periodic orbits of non-hierarchical triple systems with different masses and period. (a) m<sub>1</sub> = 0.87, m<sub>2</sub> = 0.8, m<sub>3</sub> = 1 and T = 5.9889127121; (b) m<sub>1</sub> = 0.9, m<sub>2</sub> = 0.85, m<sub>3</sub> = 1 and T = 6.3508660391; (c) m<sub>1</sub> = 0.93, m<sub>2</sub> = 0.89, m<sub>3</sub> = 1 and T = 6.6805531109. Body-1: blue line; Body-2: red line; Body-3: black line.**
 
 <div align=center>
-<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/stable.png" width="350" height="270" />
+<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/stable.png" width="310" height="240" />
 </div>
 
 **FIG5. The stability region of periodic orbits with m<sub>3</sub> = 1 in the m<sub>1</sub>-m<sub>2</sub> plane. Shadowing domain: stable periodic orbits.**
