@@ -56,17 +56,17 @@ For the detailed characteristic parameters (such as the periods, initial positio
 **For the movies of these periodic orbits, please visit the website: [https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm](https://numericaltank.sjtu.edu.cn/free-fall-3b/free-fall-3b-movies.htm)**
 
 ## 4. Stable non-hierarchical triple systems with fairly large mass region
+<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4a.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4b.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure4c.gif" width="276" height="190" />
+
+**FIG4. Three newly found stable periodic orbits of non-hierarchical triple systems with different masses and period. (a) m<sub>1</sub> = 0.87, m<sub>2</sub> = 0.8, m<sub>3</sub> = 1 and T = 5.9889127121; (b) m<sub>1</sub> = 0.9, m<sub>2</sub> = 0.85, m<sub>3</sub> = 1 and T = 6.3508660391; (c) m<sub>1</sub> = 0.93, m<sub>2</sub> = 0.89, m<sub>3</sub> = 1 and T = 6.6805531109. Body-1: blue line; Body-2: red line; Body-3: black line.**
+
 <div align=center>
 <img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/stable.png" width="350" height="270" />
 </div>
 
-**FIG4. The stability region of periodic orbits with m<sub>3</sub> = 1 in the m<sub>1</sub>-m<sub>2</sub> plane. Shadowing domain: stable periodic orbits.**
+**FIG5. The stability region of periodic orbits with m<sub>3</sub> = 1 in the m<sub>1</sub>-m<sub>2</sub> plane. Shadowing domain: stable periodic orbits.**
 
-<img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure5a.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure5b.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/Figure5c.gif" width="276" height="190" />
-
-**FIG5. Three newly found stable periodic orbits of non-hierarchical triple systems with different masses and period. (a) m<sub>1</sub> = 0.87, m<sub>2</sub> = 0.8, m<sub>3</sub> = 1 and T = 5.9889127121; (b) m<sub>1</sub> = 0.9, m<sub>2</sub> = 0.85, m<sub>3</sub> = 1 and T = 6.3508660391; (c) m<sub>1</sub> = 0.93, m<sub>2</sub> = 0.89, m<sub>3</sub> = 1 and T = 6.6805531109. Body-1: blue line; Body-2: red line; Body-3: black line.**
-
-It has traditionally been believed that non-hierarchical triple systems would be unstable and thus should disintegrate into a stable binary system and a single star, and consequently stable periodic orbits of non-hierarchical triple systems have been expected to be rather scarce. However, we report here one family of 135445 periodic orbits of non-hierarchical triple systems with unequal masses [https://github.com/sjtu-liao/three-body/blob/main/non-hierarchical-3b.md](https://github.com/sjtu-liao/three-body/blob/main/non-hierarchical-3b.md): 13315 among them are stable. Compared with the narrow mass range (only 10<sup>−5</sup>) in which stable “Figure-eight” periodic orbits of three-body systems exist, our newly found stable periodic orbits have fairly large mass region as shown in FIG4. We find that many of these numerically found stable non-hierarchical periodic orbits have mass ratios close to those of hierarchical triple systems that have been measured with astronomical observations. This implies that these stable periodic orbits of non-hierarchical triple systems with distinctly unequal masses quite possibly can be observed in practice.
+It has traditionally been believed that non-hierarchical triple systems would be unstable and thus should disintegrate into a stable binary system and a single star, and consequently stable periodic orbits of non-hierarchical triple systems have been expected to be rather scarce. However, we report here one family of 135445 periodic orbits of non-hierarchical triple systems with unequal masses [https://github.com/sjtu-liao/three-body/blob/main/non-hierarchical-3b.md](https://github.com/sjtu-liao/three-body/blob/main/non-hierarchical-3b.md): 13315 among them are stable. Compared with the narrow mass range (only 10<sup>−5</sup>) in which stable “Figure-eight” periodic orbits of three-body systems exist, our newly found stable periodic orbits have fairly large mass region as shown in FIG5. We find that many of these numerically found stable non-hierarchical periodic orbits have mass ratios close to those of hierarchical triple systems that have been measured with astronomical observations. This implies that these stable periodic orbits of non-hierarchical triple systems with distinctly unequal masses quite possibly can be observed in practice.
 
 For more details, please refer to：
 
