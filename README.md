@@ -72,7 +72,7 @@ For more details, please refer to：
 
 Xiaoming Li, Xiaochen Li and Shijun Liao, "One family of 13315 stable periodic orbits of non-hierarchical unequal-mass triple systems", ***SCIENCE CHINA Physics, Mechanics & Astronomy***, 64 (2021), 219511 (doi:10.1007/s11433-020-1624-7). [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2021/4.pdf)] [arXiv:2007.10184](https://arxiv.org/abs/2007.10184)
 
-## 5. Three-body problem - from Newton to supercomputer plus machine learning
+## 5. A roadmap to find periodic orbits of three-body systems with arbitrary masses
 <div align=center><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif1.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif2.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif3.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif4.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif5.gif" width="276" height="190" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/roadmap_case1_gif/gif6.gif" width="276" height="190" /></div>
 
 **FIG6. The relatively periodic BHH satellites orbits of the three-body system with various masses in a rotating frame of reference. The corresponding physical parameters are given by ANN in Table 3 in [[PDF](https://sjliao.sjtu.edu.cn/Liao-article/journal/2022/2.pdf)]. Blue line: body-1; red line: body-2; black line: body-3.**
