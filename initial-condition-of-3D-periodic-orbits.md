@@ -1,4 +1,4 @@
-The initial positions of the three bodies are as follow: $\bm{r}_1 = (-1, 0, 0)$, $\bm{r}_2=(1, 0, 0)$ and $\bm{r}_3 = (0, 0, z_0)$. Their initial 
+The initial positions of the three bodies are as follow: $\mathbf{r}_1 = (-1, 0, 0)$, $\bm{r}_2=(1, 0, 0)$ and $\bm{r}_3 = (0, 0, z_0)$. Their initial 
 velocities are as follow: $\bm{v}_1 = (v_x, v_y, v_z)$, $\bm{v}_2 = (v_x, v_y, -v_z)$ and $\bm{v}_3 = (-(m_1+m_2)v_x/m_3, -(m_1+m_2)v_y/m_3, 0)$, 
 where $m_1=m_2=1$. Linear stability of periodic orbits: S (linearly stable), U (linearly unstable).
 ------------------------------------------------------------------------------------------------------------------------------------------------------
