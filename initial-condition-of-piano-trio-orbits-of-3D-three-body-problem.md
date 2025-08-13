@@ -1,6 +1,4 @@
-The initial conditions, the periods $T$ and the stability of the "panio-trio" periodic orbits in the case of the initial position $\mathbf{r}_1 = (-1, 0, 0)$, 
-$\mathbf{r}_2=(1, 0, 0)$ and $\mathbf{r}_3 = (0, 0, z_0)$ with the initial velocities $\mathbf{v}_1 = (v_x, v_y, v_z)$, $\mathbf{v}_2 = (v_x, v_y, -v_z)$ 
-and $\mathbf{v}_3 = (-2 v_x/m_3, -2 v_y/m_3, 0)$.  Stability of periodic orbit: S (linearly stable), U (linearly unstable).
+The initial conditions, the periods $T$ and the stability of the "panio-trio" periodic orbits in the case of the initial position $\mathbf{r}_1 = (-1, 0, 0)$, $\mathbf{r}_2=(1, 0, 0)$ and $\mathbf{r}_3 = (0, 0, z_0)$ with the initial velocities $\mathbf{v}_1 = (v_x, v_y, v_z)$, $\mathbf{v}_2 = (v_x, v_y, -v_z)$ and $\mathbf{v}_3 = (-2 v_x/m_3, -2 v_y/m_3, 0)$. Stability of periodic orbit: S (linearly stable), U (linearly unstable).
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Orbit O_{n}(m_3)            z_0                      v_x                    v_y                         v_z                     T           stability
 ------------------------------------------------------------------------------------------------------------------------------------------------------
