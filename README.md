@@ -111,11 +111,11 @@ A very few three-dimensional (3D) periodic orbits of general three-body problem 
 
 For details, please refer to [arXiv:2508.08568v1](https://arxiv.org/abs/2508.08568v1). 
 
-For initial conditions as well as other characteristic parameters, please visit the websites:
+For initial conditions as well as other characteristic parameters, please download the supplementaries:
 
-**(A)** [Initial conditions of periodic orbits of 3D three-body problem](https://github.com/sjtu-liao/three-body/blob/main/initial-condition-of-3D-periodic-orbits.md);
+**(A)** [Initial conditions of periodic orbits of 3D three-body problem](https://github.com/sjtu-liao/three-body/blob/main/initial-condition-of-3D-periodic-orbits.txt);
 
-**(B)** [Initial conditions of piano-trio orbits of 3D three-body problem](https://github.com/sjtu-liao/three-body/blob/main/initial-condition-of-piano-trio-orbits-of-3D-three-body-problem.md).
+**(B)** [Initial conditions of piano-trio orbits of 3D three-body problem](https://github.com/sjtu-liao/three-body/blob/main/initial-condition-of-piano-trio-orbits-of-3D-three-body-problem.txt).
 
 ---
 
