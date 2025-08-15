@@ -115,7 +115,7 @@ This folder contains the trained ANN models for the two cases in the paper.
 
 <div align=center><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig3a.gif" width="291" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig3b.gif" width="291" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig3c.gif" width="291" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig3d.gif" width="291" height="200" /></div>
 
-**FIG9. 3D choreographic periodic orbits of three-body problem in the case of m<sub>1</sub>=m<sub>2</sub>=m<sub>3</sub>=1: (a) $O_{62}(1.0)$, (b) $O_{64}(1.0)$, (c) $O_{231}(1.0)$, (d) $O_{524}(1.0)$. Three bodies move along a single closed orbit (blue). Blue circle: Body-1; Red circle: Body-2; Green circle: Body-3.**
+**FIG9. 3D choreographic periodic orbits of three-body problem in the case of m<sub>1</sub>=m<sub>2</sub>=m<sub>3</sub>=1: (a) $O_{62}(1.0)$, (b) $O_{64}(1.0)$, (c) $O_{231}(1.0)$, (d) $O_{524}(1.0)$. Three bodies move along a single closed orbit (green). Blue circle: Body-1; Red circle: Body-2; Green circle: Body-3.**
 
 <div align=center><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig4a.gif" width="291" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig4b.gif" width="291" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig4c.gif" width="291" height="200" /><img src="https://github.com/sjtu-liao/three-body/blob/main/readme_gif/gifs-3D/fig4d.gif" width="291" height="200" /></div>
 
